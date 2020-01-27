@@ -1,2 +1,3 @@
 ligne 1
-nouvelle ligne
+nouvelle ligne modifiée
+ligne 3 ajoutée
