@@ -1,3 +1,4 @@
 ligne 1
-nouvelle ligne modifiée
+nouvelle ligne modifiée remodifiée
 ligne 3 ajoutée
+ceci est la ligne 4
